@@ -1,5 +1,35 @@
 /*CSS Stylesheet*/
 
 body {
+	background-color: #ffffff;
 	text-align: center;
+}
+
+a:link {color: #ffffff;}
+a:visted {}
+a:hover {}
+a:active {}
+
+.sidenav {
+	background-color: #0A2239;
+	height: 100%;
+	width: 500px;
+	position: fixed;
+	z-index: 1;
+	top: 0;
+	left: 0;
+	overflow: hidden;
+	padding: 300px 0;
+}
+
+.logo img{
+	height: 100px;
+	margin: 0.8em;
+}
+
+.content {
+	color: #000000;
+	margin-left: 500px; 
+	padding: 20px;
+	width: 1080px;
 }
