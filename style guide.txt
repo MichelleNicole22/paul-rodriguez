@@ -1,0 +1,11 @@
+Style Guide and Color Codes
+
+Primary: #f9cb40
+Accent: #387780
+
+Alt: 0A2239 - dk navy blue
+176087 - blue sapphire
+DACC3E - yellow gold
+F2CD5D - calm gold
+DEA54B - orange gold
+FFBC42 - strong yl orange
