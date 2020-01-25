@@ -33,3 +33,10 @@ a:active {}
 	padding: 20px;
 	width: 1080px;
 }
+
+#home {
+	background-color: yellow;
+	background-image: url("images/dreamHome.jpg");
+	height: 1080px;
+	width: 1920px;
+}
