@@ -1,11 +1,15 @@
 Style Guide and Color Codes
 
-Primary: #f9cb40
-Accent: #387780
+Primary: #f9cb40 (249, 203, 64)
+Accent: #387780 (56,119,128)
 
-Alt: 0A2239 - dk navy blue
-176087 - blue sapphire
-DACC3E - yellow gold
-F2CD5D - calm gold
-DEA54B - orange gold
-FFBC42 - strong yl orange
+Alternative options: 
+0A2239 - dk navy blue (10,34,57)
+176087 - blue sapphire (23,96,135)
+DACC3E - yellow gold (218,204,62)
+F2CD5D - calm gold (242,205,93)
+FFBC42 - strong yl orange (255,188,66)
+
+Fonts
+Playfair Display
+Opens Sans
