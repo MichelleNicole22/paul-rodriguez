@@ -11,5 +11,5 @@ F2CD5D - calm gold (242,205,93)
 FFBC42 - strong yl orange (255,188,66)
 
 Fonts
-Playfair Display
+Libre Baskerville
 Opens Sans
